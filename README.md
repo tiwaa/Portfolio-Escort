@@ -4,9 +4,8 @@ Welcome! This is a summary of my projects in the field of data!😄
 
 ## 📑 Table of Contents
 
-- [Excel](#excel)
-- [SQL](#sql)
 - [Python](#python)
+- [SQL](#sql)
 - [R](#r)
 - [Tableau](#tableau)
 
