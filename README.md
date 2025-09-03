@@ -10,14 +10,9 @@ Welcome! This is a summary of my projects in the field of data!😄
 - [R](#r)
 - [Tableau](#tableau)
 
-# Excel
-
-
-# SQL
-
-
 # Python
 
+# SQL
 
 # R
 
